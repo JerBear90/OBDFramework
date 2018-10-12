@@ -1,4 +1,4 @@
-#!/Users/j/Desktop/OBDFramework/bin/python
+#!/home/pi/OBDFramework/bin/python
 
 import sys
 import getopt
