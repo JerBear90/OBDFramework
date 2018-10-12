@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Kavivanar');
+
+h1{
+	font-size: 100px;
+	font-weight: 200;
+	display: inline-block;
+    font-family: 'Kavivanar', cursive;
+}
+
+#rpm{
+	/* background:#f00; */
+}
